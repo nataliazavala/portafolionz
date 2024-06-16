@@ -1,0 +1,309 @@
+
+ @import url("https://use.typekit.net/kxa2hel.css");
+ @import url("https://use.typekit.net/kxa2hel.css");
+
+:root{
+	--menu-hover:#F20505;
+	--color-general:#;
+	--color-titulos:#;
+}
+body{
+	font-size: 14px;
+}
+header{
+	background-color: #fff;
+	padding: 5px 0;
+	box-shadow: 0px 0px 5px 10px #f2f2f2;
+	color: #000000;
+}
+footer #copyright{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+
+#aboutme h1{
+font-family: "doublebass", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+font-size: 150px;
+color: #F20505;
+
+}
+
+#aboutme h3{
+font-family: "doublebass", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+font-size: 150px;
+color: #F20505;
+
+}
+
+#aboutme {
+	color: #000000;
+}
+
+
+
+
+.info p{
+font-family: "kopik", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+color: #FFFFFF;
+margin-bottom: 30px;
+}
+
+.info{
+    background-image: url("../img/bg img info.jpeg");
+	background-color: #FFFFFF;
+	background-size: cover;
+    background-position: top;
+	padding: 5% 0;
+	text-align: center;
+}
+
+.info h2{
+font-family: "kopik", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 50px;
+color:#FFFFFF ;	
+margin-bottom: 30px;
+
+}
+
+.info img{
+	border-radius: 100px;
+	margin-top: 30px;
+}
+
+.info btn btn-primary btn-light {
+
+padding: 12px 30px;	
+	
+}
+
+#services h1{
+font-family: "doublebass", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+font-size: 150px;
+color: #F20505;
+
+}
+
+#services{
+background-image:url("../img/ed4776c3dfeeb14fd55752e0ed2ebd14.jpg");
+background-size: cover;
+background-position: top;
+padding: 5% 0;
+	
+}
+
+
+#skills{
+padding: 10% 0;
+text-align: center;
+background-image:url("../img/804c9f224506c2bcfaef79fa2fff086e.jpg");
+background-size: cover;
+background-position: center;
+
+}
+
+#skills .fa-pen-nib{
+font-size: 50px;
+height: 95px;
+width: 95px;
+line-height: 95px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;
+}
+
+#skills .fa-camera{
+font-size: 50px;
+height: 95px;
+width: 95px;
+line-height: 95px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;
+}
+
+#skills .fa-video{
+font-size: 50px;
+height: 95px;
+width: 95px;
+line-height: 95px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;
+}
+
+#skills .fa-rectangle-ad{
+font-size: 50px;
+margin-top: 30px;
+height: 95px;
+width: 95px;
+line-height: 95px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;
+}
+
+#skills .fa-user-group{
+font-size: 50px;
+margin-top: 30px;
+height: 95px;
+width: 95px;
+line-height: 95px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;
+}
+
+#skills p{
+font-family: "kopik", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 20px;
+color: #FFFFFF;
+
+}
+
+.btn-primary{
+margin-top: 30px;
+font-family:  "kopik", sans-serif;
+padding: 12px 30px;
+text-align: center;
+}
+
+#contacto h1{
+font-family: "doublebass", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+font-size: 150px;
+color: #F20505;
+
+}
+
+#contacto{
+background-image:url("../img/bungou stray dogs.jpeg");
+background-size: cover;
+background-position: bottom;
+padding: 5% 0;
+
+}
+
+.formulario{
+background-image: url("../img/bg formulario.jpeg");
+background-size: cover;
+background-position: top;
+padding: 12% 0;
+}
+
+.formulario h2{
+font-family: "kopik", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 40px;
+color: #FFFFFF;	
+margin-bottom: 30px;	
+}
+
+footer{
+background-color: #000000;
+
+}
+
+footer img{
+margin-top: 40px;
+}
+
+
+footer h3{
+margin-top: 80px;
+color: #FFFFFF;
+font-family: "kopik", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 30px;
+}
+
+footer .fa-instagram{
+font-size: 40px;
+margin-top: 40px;
+height: 80px;
+width: 80px;
+line-height: 80px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;	
+}
+
+footer .fa-tiktok{
+font-size: 40px;
+margin-top: 40px;
+height: 80px;
+width: 80px;
+line-height: 80px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;	
+}
+
+footer .fa-square-x-twitter{
+font-size: 40px;
+margin-top: 40px;
+height: 80px;
+width: 80px;
+line-height: 80px;
+background-color:#FFFFFF;
+border-radius: 100%;
+margin-bottom: 20px;	
+}
+
+#portfolio h1{
+font-family: "doublebass", sans-serif;
+font-weight: 400;
+font-style: normal;
+text-align: center;
+font-size: 150px;
+color: #F20505;	
+}
+
+#portfolio{
+background-image: url("../img/portfolio bg.jpeg");
+background-size: cover;
+background-position: center;
+padding: 8% 0;
+}
+
+#trabajos{
+padding: 5% 0;
+background-image:url("../img/bg image trabajos.jpeg");
+background-size: cover;
+background-position: center;
+
+	
+}
+
+#trabajos h2{
+font-family: "kopik", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 40px;
+color: #FFFFFF;
+margin-bottom: 30px;
+text-align: center;
+}
+
+
